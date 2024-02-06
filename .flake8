@@ -1,0 +1,6 @@
+[flake8]
+per-file-ignores =
+    utils/abbreviations.py:E501
+    utils/process_pubmed.py:E501
+    utils/cleaning_pipeline.py:E501
+    utils/get_google_font.py:E501
