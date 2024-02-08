@@ -155,3 +155,5 @@ cython_debug/
 *.gguf
 *.svg
 *.png
+*.pdf
+domain_specific_terms.txt
